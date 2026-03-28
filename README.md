@@ -19,9 +19,6 @@ This project presents an interactive Power BI dashboard to analyze student perfo
 - Power BI  
 - MS Excel  
 
----<img width="1418" height="751" alt="marks_dashboard png" src="https://github.com/user-attachments/assets/55c1fb25-cdfa-4ca7-8ad7-7525b99bb096" />
-
-
 ## 📊 Key Insights
 - Compared student performance across multiple subjects  
 - Identified high-performing and low-performing students  
@@ -39,7 +36,8 @@ This project presents an interactive Power BI dashboard to analyze student perfo
 ---
 
 ## 📸 Dashboard Preview
-*(Upload your screenshot here — very important)*
+<img width="1418" height="751" alt="marks_dashboard png" src="https://github.com/user-attachments/assets/ff1a0a1d-9f66-48a7-8870-507f634db7d7" />
+
 
 ---
 
